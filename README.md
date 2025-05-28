@@ -20,7 +20,7 @@
 ---
 
 ## 💬 Telegram Bot
-- **Bot Name:** `AuxiliaChuvas_AGJ`
-- **Token:** `7412498174:AAEebSDj5LZSHLZrjsvQyUk_1Ln6t6zh99k`
-- **Nome para busca:** `AssistenteDeChuvasBot`
-- **Link para o Bot:** [t.me/AssistenteDeChuvasBot](https://t.me/AssistenteDeChuvasBot)
+- **Bot Name:** `SOS ENCHENTES - Assistente`
+- **Token:** `7500852756:AAFTkr9yTuNVoNZF9JBxmZJ9AW66Pa2uD0Q`
+- **Nome para busca:** `SOS ENCHENTES - Assistente`
+- **Link para o Bot:** [t.me/AssistenteDeChuvasBot](t.me/SOS_EnchentesBot)
